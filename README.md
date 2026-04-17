@@ -2,7 +2,7 @@
 A responsive weather application built with React.js that allows users to search and view real-time weather data for any city worldwide using the WeatherAPI.com API.
 ---
 🌐 Live Demo
-> Search any city and instantly get temperature, humidity, wind speed, UV index, sunrise/sunset times, and a 5-day forecast.
+https://sowndhar-ms7.github.io/Weather-Reporting-App/
 ---
 🚀 Features
 🔍 Search weather by city name
